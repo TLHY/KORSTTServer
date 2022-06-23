@@ -10,5 +10,5 @@ API loads the STT model and writes string from input wav.
 Then, it's divided to name, amount, service
 
 **NOTICE:**
-run_STT.py is based on https://huggingface.co/ddwkim/asr-conformer-transformerlm-ksponspeech 
-which is speechbrain model trained with Ksponspeech dataset provided by AI HUB.
+Follow steps from https://huggingface.co/ddwkim/asr-conformer-transformerlm-ksponspeech 
+which is a speechbrain model trained with Ksponspeech dataset provided by AI HUB.
