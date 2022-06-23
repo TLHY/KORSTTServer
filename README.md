@@ -1,7 +1,7 @@
 # KORSTTServerAPI
 ![image](https://user-images.githubusercontent.com/54972550/175376454-07211c01-2b4e-473b-aac3-86f757a6bb1b.png)
 
-**Input:**
+**Input**
 Korean wav file
 
 **output**
